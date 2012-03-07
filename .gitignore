@@ -26,4 +26,5 @@ doc/app
 /.idea
 .svn/*
 .svn
+/bundler_stubs/
 

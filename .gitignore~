@@ -13,3 +13,17 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+
+# *JM* 
+*.log
+/tmp/**/*
+doc/api
+doc/app
+*.swp
+* ̃
+/.DS_Store
+/.idea
+.svn/*
+.svn
+
